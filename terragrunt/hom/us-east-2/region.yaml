@@ -1,0 +1,4 @@
+---
+aws_region: us-east-2
+tags:
+  Region: us-east-2
